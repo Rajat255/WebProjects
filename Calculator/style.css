@@ -4,6 +4,7 @@ body {
     background-size: cover;
 
    }
+
 .container {
     max-width: 400px;
     margin: 10vh auto 0 auto;
@@ -49,6 +50,7 @@ body {
     color: white;
     transition: 0.5s ease-in-out;
 }
+
 .form1{
     opacity: 1;
     width: 50vw;
