@@ -1,4 +1,5 @@
 # Calculator Project 
 
 A Calculator made using html, javascript and css.
-!.[alt text](https://github.com/Rajat255/WebProjects/Calculator/CalculatorSS.png
+
+![image](https://user-images.githubusercontent.com/78610455/208247866-475a8e77-5129-4dbc-a759-bb7ff121c292.png)
